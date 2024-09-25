@@ -1,0 +1,8 @@
+start
+    key = storedNumber
+    currentNumber = GetNumberFromStorage key
+    UpdateText numberDisplay Current Number currentNumber
+    newNumber = 42
+    SaveNumberToStorage key newNumber
+    UpdateText numberDisplay New Number newNumber
+connect
