@@ -1,3 +1,6 @@
+![The Aqua Programming Language](path/to/aquaprogramminglanguage.webp)
+## "Be Like Water"
+
 # Aqua Language
 ## Aqua is a modular programming language designed to simplify software development by allowing developers to connect reusable components, called cups, in a clean, intuitive syntax. With Aqua, you can easily combine JavaScript, Python, and Rust code without needing to worry about the underlying complexities.
 
