@@ -1,4 +1,4 @@
-![The Aqua Programming Language](quaprogramminglanguage.png)
+![The Aqua Programming Language](/quaprogramminglanguage.png)
 ## "Be Like Water"
 
 # Aqua Language
