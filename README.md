@@ -1,4 +1,3 @@
-![The Aqua Programming Language](/quaprogramminglanguage.png)
 ## "Be Like Water"
 
 # Aqua Language
